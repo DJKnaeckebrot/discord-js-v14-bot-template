@@ -2,7 +2,7 @@
  * @file Main File of the bot, responsible for registering events, commands, interactions etc.
  * @author mrdennis1212
  * @since 1.0.0
- * @version 3.3.0
+ * @version 1.0.0
  */
 
 // Declare constants which will be used throughout the bot.
@@ -18,7 +18,6 @@ const {
 const { REST } = require("@discordjs/rest");
 const { Routes } = require("discord-api-types/v9");
 
-// const { token, client_id, test_guild_id } = require("./config.json");
 const token = process.env.TOKEN;
 const client_id = process.env.CLIENT_ID;
 const test_guild_id = process.env.TEST_GUILD_ID;
