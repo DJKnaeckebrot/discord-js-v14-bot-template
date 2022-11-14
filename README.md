@@ -1,5 +1,6 @@
 <h1 align="center">Welcome to this Discord Bot Template 👋</h1>
 <p>
+  <a href="https://www.codacy.com/gh/mrdennis1212/discord-js-v14-bot-template/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=mrdennis1212/discord-js-v14-bot-template&amp;utm_campaign=Badge_Grade"><img src="https://app.codacy.com/project/badge/Grade/4604bb5c4b2446e2a4c78b489589dc62"/></a>
   <img alt="Version" src="https://img.shields.io/badge/version-v1.0-blue.svg?cacheSeconds=2592000" />
   <a href="https://github.com/mrdennis1212/discord-js-v14-bot-template#readme" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
