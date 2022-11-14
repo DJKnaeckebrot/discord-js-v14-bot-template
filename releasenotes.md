@@ -1,33 +1,11 @@
-## Synix Discord Bot v1.0.2
+## Discord Bot Template v1.0.0
 
-### Commands 
+### Commands
 
-Command Name | Usage 
----|---
-clip | /clip [parmeters]
-help | /help [parmeters]
-moveallmembers | /moveallmembers [parmeters] ❌ (currently broken)
-movemember | /movemeber [parmeters]
-say | /say [parmeters]
-closetraining | /closetraining
+Command Name | Usage
+\---|---
+help | /help \[parmeters]
 
 ### New Features
 
 Bot now has support / commands badge
-
-## Synix Discord Bot v1.0.3
-
-### Commands 
-
-Command Name | Usage 
----|---
-clip | /clip [parmeters]
-help | /help [parmeters]
-moveallmembers | /moveallmembers [parmeters] ❌ (currently broken)
-movemember | /movemeber [parmeters]
-say | /say [parmeters]
-closetraining | /closetraining
-
-### New Features / Bugfixes
-
-Removed guild commands
